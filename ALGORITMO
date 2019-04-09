@@ -1,0 +1,6 @@
+echo "# Algoritmosomadespesas" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/alessandromiguel/Algoritmosomadespesas.git
+git push -u origin master
